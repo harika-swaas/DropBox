@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DropBoxContent</string>
+    <string name="network_alert_text">Network is disabled in your device. Would you like to enable it?</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="title">About Canada</string>
+</resources>
